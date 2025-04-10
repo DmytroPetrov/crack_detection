@@ -12,4 +12,6 @@ Copy `.env.example` file. Set env variable and rename to `.env`
 
 
 # Results
-In the docx file
+In the docx file.
+
+Model weights [here](https://drive.google.com/file/d/1GuFJgkpTOxKDpWYvtZeeebGaPSHAgE8w/view?usp=sharing).
